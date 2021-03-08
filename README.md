@@ -3,3 +3,7 @@ Galaxy Game project written in powershell. Right click on the file and press "Ru
 
 
 ![image](https://user-images.githubusercontent.com/55952226/110316187-a9b26080-800a-11eb-9ed1-0ca27adc6590.png)
+
+
+![image](https://user-images.githubusercontent.com/55952226/110316462-0dd52480-800b-11eb-81bd-bd2409d51f07.png)
+
